@@ -48,11 +48,3 @@ a = "25"
 int(a)+5
 float(a)+5
 Test 1 Git push
-Test 2 Git pull
-Test 3 3:53pm
-Test 4 3:55pm
-Test 5 3:56pm
-Test 6 3:57pm
-Test 7
-Test 8
-Test 9
