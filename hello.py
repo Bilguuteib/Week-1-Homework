@@ -10,7 +10,7 @@ print(msg)
 print(np.random.randint(1,9))
 
 # Testing
-msg = "I love you, Aminaa"
+msg = "test"
 print(msg)
 
 125+3215
